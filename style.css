@@ -1,0 +1,80 @@
+body{margin: 0;
+}
+
+.image1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    background-image: url(Paris.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.image2 {
+    height: 100vh;
+    background-image: url(Eiffeltårnet.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.image3 {
+    height: 100vh;
+    background-image: url(Mat.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.image4 {
+    height: 100vh;
+    background-image: url(Disney.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.image5 {
+    height: 100vh;
+    background-image: url(Louvre.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.image6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    background-image: url(Avslutning.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.section{
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.tittel{
+    display: inline-block;
+    padding: 7px;
+    background-color: black;
+    color: white;
+    font-size: 46px;
+}
+
+.Overskrift{
+    font-size: 20px;
+}
+
+
